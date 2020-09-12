@@ -9,6 +9,8 @@
 <a href="https://www.instagram.com/jvmartin3z">
   <img align="left" alt="Juan Martinez  instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<br />
 <br />
 
 I'm a Software Engineer with over 8 years of hands-on experience in creating and maintaining software.
