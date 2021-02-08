@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Android_robot_2014.svg/872px-Android_robot_2014.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png"></code>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
