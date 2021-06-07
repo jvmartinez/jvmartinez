@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Android_robot_2014.svg/872px-Android_robot_2014.svg.png"></code>
+<code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png"></code>
+<code><img height="30" src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29820/preview_image/kotlin.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
